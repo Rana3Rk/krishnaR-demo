@@ -1,2 +1,2 @@
 # krishnaR-demo
-This is First Reposetory
+This is First repo
